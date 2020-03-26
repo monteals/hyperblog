@@ -16,6 +16,17 @@ body
     margin: 0;
     padding: 0.5 rem;
 }
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: niddle;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #container
 {
     width: 70%;
